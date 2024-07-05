@@ -1,2 +1,1 @@
-# Sorting_Algos-cpp
-Selection Sort Algorithm
+Sorting Algorithms
